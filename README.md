@@ -1,7 +1,5 @@
-Assignment 1 is named "."
 
-Assignment 2 is named "Copy of OC Camp A2- Zain Syed.pdf
-"
+Assignment 2 is named "Copy of OC Camp A2- Zain Syed.pdf"
 
 Assignment 3 P1 is named "AssignmentTest"
 
