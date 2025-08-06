@@ -9,3 +9,4 @@ Assignment 4 (Encapsulation and Constructors Pt.2) P1 is named "main2"
 
 Assignment 4 (Encapsulation and Constructors Pt.2) P2 is named "Encapsulation"
 
+Assignment 4 (Encapsulation and Constructors Pt.2) P3 is named "examine"
